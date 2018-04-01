@@ -1,0 +1,6 @@
+projectKey=primefaces-menu-sample
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/primefaces-menu-sample
+ceTaskId=AWKBZga34KOAWWp0M6ND
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWKBZga34KOAWWp0M6ND
